@@ -1,3 +1,4 @@
+![logo](https://github.com/Sarthakcried/Sarthakcried/blob/main/Arcade.png)
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
 <h3 align="center">I am a Passionate Web Developer from India</h3>
 
