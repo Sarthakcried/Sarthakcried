@@ -30,5 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakcried&" alt="sarthakcried" /></p>
 <a href="https://www.buymeacoffee.com/ifsarthak" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sarthakcried&theme=onedark)](https://github.com/Sarthakcried/github-profile-trophy)
 <img align="right" alt="holopin" src="https://holopin.me/sarthakcried">
