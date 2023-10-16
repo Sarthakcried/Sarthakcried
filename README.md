@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sarthakcried](https://linktr.ee/sarthakcried)
+- 👨‍💻 All of my profiles are available at [https://linktr.ee/sarthakcried](https://linktr.ee/sarthakcried)
 
-- 💬 Ask me about **HTML, CSS, Python etc.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python etc.**
 
 - 📫 How to reach me **sarthakwastrolled07@gmail.com**
 
